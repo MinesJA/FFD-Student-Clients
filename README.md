@@ -6,6 +6,8 @@ Right now, we are hosting a server that stores a board full of tiles, and it is 
 
 To aid you in your programmatic art endeavors, we have written some clients to help you.
 
+[Visit rest of the code base](https://github.com/MinesJA/fi-field-day)
+
 ### The Nexus
 
 Everyone, regardless of language, should be running the Nexus. To do this, please `cd` into the directory called `nexus` and run 
