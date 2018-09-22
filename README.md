@@ -6,8 +6,8 @@ A forked version of the repo deployed to students at Flatiron's Field Day event.
 
 ## Getting Started
 * See instructions deployed with repo on the day of the event below
-* [Canvas Board Client](https://github.com/MinesJA/spotify_tree_backend)
-* [Backend Repo](https://github.com/MinesJA/spotify_tree_backend)
+* [Canvas Board Client](https://github.com/MinesJA/browser-board-client)
+* [Backend Repo](https://github.com/MinesJA/fi-field-day)
 
 ## Built With
 * [Node.js](https://nodejs.org/en/)
@@ -25,6 +25,8 @@ A forked version of the repo deployed to students at Flatiron's Field Day event.
 This project is licensed under the MIT License
 
 
+
+===============
 Client Instructions
 ===============
 
