@@ -2,7 +2,8 @@ Flatiron Field Day
 ===============
 A forked version of the repo deployed to students at Flatiron's Field Day event. The purpose of the event was to have students compete to programmatically protect the color of their section of a Canvas board from being overwritten and to attempt to overwrite the color of competeing teams. Flatiron Staff built the clients in this repo to allow allow students to write to and read from the board in Javascript, Ruby, or Python (whichever language they were more comfortable in). Staff also built a intermediary Node backend, hidden as an NPM package, which intercepted calls to the board, queued them, and processed them at a specific rate. Those POST requests were then sent to the real server which allowed writing to the board.
 
-Built with: Node | Javascript | Ruby | Python3 | Express | NPM
+![Field Day Timelapse](https://j.gifs.com/D93Rx6.gif)
+Format: ![Alt Text](https://j.gifs.com/D93Rx6.gif)
 
 ## Getting Started
 * See instructions deployed with repo on the day of the event below
